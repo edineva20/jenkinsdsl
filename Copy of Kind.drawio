@@ -1,1 +1,22 @@
-<mxfile host="app.diagrams.net" modified="2021-09-16T10:26:24.557Z" agent="5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36 Edg/92.0.902.67" etag="TAlxqlSQsIsLuKk1Mx3M" version="15.2.7" type="github"><diagram id="nnIvy-vecXodmWxky8dQ" name="Page-1">5ZZdb5swFIZ/DZeTgp2a5bJhTSdt2SJF6rTeOdgBK4YTGVOS/voZsPkIdOuktDdFXOD3HPvY53kh8XCYnu4VPSZrYFx6aMZOHv7iIeTPEfKqe8bOjRIQK8RKMJvUCVvxzK04s2ohGM8HiRpAanEcihFkGY/0QKNKQTlM24McVj3SmI+EbUTlWP0lmE4a9TMKOv0rF3HiKvtk0URS6pLtSfKEMih7Er7zcKgAdPOUnkIuq+a5vjTzVi9E240pnunXTHj8iW4Pq82KkWdBHiXdPPz4/cmu8kRlYQ/8sLbb1WfXAwVFxni1jO/hZZkIzbdHGlXR0lA3WqJTacOM5kmbm2sFh7Zx2Ch7yPTWLl1lSLrjcgO50AIyo0XmNFyZwBNXWhgO3y8SNFQFqRTxZPqtDexAa0hdgSWNDnF9jBAkqPpYeFVfbk+N8/yFGY8769pkivBTT7KdvueQcq3OJsVFA0v9fDEuOxPNnTOSnoGwE6k1btyu3bE1Dxbvf6BGI9ShLPKqe2i2Fpk4FDvuISLNRpY7I5JY1734t/LNzIy0vKJvXoCWQcYneI1ddumGxjR7IWWPP/fZDQ/a+b3IggSYkus4AZGhE9rvQc8JaD7hhPYTeHUn4JETNsCM4L89wb+9dq/FeA0oiyEUfDOGEkwwIW+FZD6FBH0YHvj9eJhh95tbx3r/XPDdHw==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-09-16T11:30:14.405Z" agent="5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36 Edg/92.0.902.67" etag="jmJkWYxmXBjyZEuBPkUq" version="15.2.7" type="github">
+  <diagram id="nnIvy-vecXodmWxky8dQ" name="Page-1">
+    <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="ZO2AkFPFd6zi6ZlaPVNY-1" value="VM" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;strokeWidth=3;fontStyle=1;labelPosition=center;verticalLabelPosition=top;align=center;verticalAlign=bottom;labelBackgroundColor=#FFFFFF;fontSize=19;" parent="1" vertex="1">
+          <mxGeometry x="190" y="180" width="370" height="260" as="geometry" />
+        </mxCell>
+        <mxCell id="ZO2AkFPFd6zi6ZlaPVNY-2" value="Cluster Minikube&lt;br&gt;&lt;br&gt;&lt;br&gt;Kubectl" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;labelBackgroundColor=none;fontSize=19;strokeWidth=3;verticalAlign=top;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
+          <mxGeometry x="270" y="220" width="210" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="ZO2AkFPFd6zi6ZlaPVNY-3" value="Pod 1" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;labelBackgroundColor=#FFFFFF;fontSize=19;strokeWidth=3;verticalAlign=top;" parent="1" vertex="1">
+          <mxGeometry x="300" y="330" width="70" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ZO2AkFPFd6zi6ZlaPVNY-4" value="Pod2" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;labelBackgroundColor=#FFFFFF;fontSize=19;strokeWidth=3;verticalAlign=top;" parent="1" vertex="1">
+          <mxGeometry x="390" y="330" width="61" height="50" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
